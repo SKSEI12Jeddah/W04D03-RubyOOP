@@ -82,8 +82,6 @@ class RecordAlbums
 end
 
 album = RecordAlbums.new( "John Lennon", "Imagine", ["Imagine", "Crippled Inside", "Jealous Guy", "It's So Hard", "I Don't Want to Be a Soldier", "Gimme Some Truth" ,"Oh My Love"], "Imagine")
- 
-
 
 # 4.Classes and Methods
 # Create Muppets
@@ -115,7 +113,6 @@ end
 q = Muppet.new("K-Rad")
 q.honk
 q.flail
-
 
 #Create Birds
 # 2. Create a Bird class that takes in an `adjective` and a `name` and  puts `"#{name} is a(n) #{adjective} bird!"` on  `initialize`.   
